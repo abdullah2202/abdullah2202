@@ -1,4 +1,4 @@
-Hi 👋 My name is Mohammad Abdullah
+Hi 👋 My name is Mohammed Abdullah
 ==================================
 
 Python, JS, and MQL5 Developer
