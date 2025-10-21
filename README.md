@@ -6,7 +6,7 @@ Python, JS, and MQL5 Developer
 
 *   🌍  I'm based in Birmingham, UK
 *   ✉️  You can contact me at [mabdul2202@gmail.com](mailto:mabdul2202@gmail.com)
-*   🧠  I'm learning DJango & FastAPI
+*   🧠  I'm learning Terraform, Python, GitHub Actions
 *   🤝  I'm open to collaborating on I'm open to collaborating on interesting projects as a developer
 
 
