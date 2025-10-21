@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohammed Abdullah
 ==================================
 
-Python, JS, and MQL5 Developer
+Python, JS, MQL5, and DevOps Developer
 -----------------------
 
 *   🌍  I'm based in Birmingham, UK
